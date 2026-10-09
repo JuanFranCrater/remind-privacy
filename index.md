@@ -22,6 +22,8 @@ Data is processed by Google under its terms: https://firebase.google.com/support
 
 ## Permissions
 - **Internet** – only used to send the anonymous diagnostic data above.
+- **Notifications** (optional) – only used to show event reminders that you set. Reminders are scheduled and shown entirely on your device; no data is sent. You can turn them off any time in the app (Settings › Notifications) or in system settings.
+- **Run at startup** – only used to re-schedule your reminders after the device restarts.
 
 ## Retention and deletion
 Local data is removed when you delete events or uninstall the app. Analytics and crash data are retained by Firebase for a limited period under its default retention settings. To request deletion of data associated with your device, contact us at the email above.
@@ -58,6 +60,8 @@ Google procesa los datos según sus condiciones: https://firebase.google.com/sup
 
 ## Permisos
 - **Internet** – solo para enviar los datos de diagnóstico anónimos indicados.
+- **Notificaciones** (opcional) – solo para mostrar los recordatorios de eventos que configures. Los recordatorios se programan y muestran íntegramente en tu dispositivo; no se envían datos. Puedes desactivarlos en cualquier momento en la app (Ajustes › Notificaciones) o en los ajustes del sistema.
+- **Ejecutar al iniciar** – solo para reprogramar tus recordatorios tras reiniciar el dispositivo.
 
 ## Conservación y eliminación
 Los datos locales se eliminan al borrar eventos o desinstalar la app. Los datos de analítica y fallos los conserva Firebase durante un periodo limitado según su configuración por defecto. Para solicitar la eliminación de datos asociados a tu dispositivo, escribe al correo indicado.
